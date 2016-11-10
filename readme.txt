@@ -1,1 +1,2 @@
-readme.txt
+README
+first README fix1
